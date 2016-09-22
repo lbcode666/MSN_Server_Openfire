@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.msn.friendRecommend.FriendRecommendPlugin</class>
+    <name>FriendRecommend</name>
+    <description>好友推荐插件</description>
+    <author>ZhaoKai</author>
+    <version>1.0</version>
+    <date>7/24/2015</date>
+    <url>http://www.igniterealtime.org</url>
+    <minServerVersion>3.9.0</minServerVersion>
+</plugin>

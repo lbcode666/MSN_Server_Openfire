@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Plugin configuration for the broadcast plugin.
+-->
+<plugin>
+    <class>com.msn.catchPacket.CatchPacketPlugin</class>
+    <name>CatchPacket</name>
+    <description>报文拦截插件</description>
+    <author>Zhao Kai</author>
+    <version>1.0</version>
+    <date>08/04/2015</date>
+    <url>http://www.igniterealtime.org</url>
+    <minServerVersion>3.9.0</minServerVersion>
+</plugin>

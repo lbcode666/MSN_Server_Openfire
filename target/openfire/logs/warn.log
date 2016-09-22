@@ -1,0 +1,801 @@
+2016.07.07 14:02:10 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="eYXjk-84" from="192.168.0.201" to="shijie@192.168.0.201/Smack"><activity xmlns="com.msn.activity" type="myParticipation"/></iq>
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0114 was active for 329926 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0116 was active for 329837 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0115 was active for 329901 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0117 was active for 329874 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0118 was active for 329891 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0119 was active for 329884 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0120 was active for 329844 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0121 was active for 329818 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0122 was active for 329807 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0123 was active for 329786 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0124 was active for 329782 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0125 was active for 329772 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0126 was active for 329764 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0127 was active for 329761 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0128 was active for 329738 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0129 was active for 329738 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0130 was active for 329715 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:02:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0131 was active for 329716 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:04:55 org.jivesoftware.util.log.util.CommonsLogFactory - #0132 was active for 329923 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:08:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0133 was active for 324738 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:09:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0135 was active for 305724 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:10:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0137 was active for 302372 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:11:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0134 was active for 325006 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:12:35 org.jivesoftware.util.log.util.CommonsLogFactory - #0136 was active for 321751 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:13:35 org.jivesoftware.util.log.util.CommonsLogFactory - #0138 was active for 324978 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:16:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0139 was active for 305307 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:18:35 org.jivesoftware.util.log.util.CommonsLogFactory - #0140 was active for 303748 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:19:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0142 was active for 305294 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:20:25 org.jivesoftware.util.log.util.CommonsLogFactory - #0143 was active for 306078 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:23:05 org.jivesoftware.util.log.util.CommonsLogFactory - #0144 was active for 307462 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:24:55 org.jivesoftware.util.log.util.CommonsLogFactory - #0145 was active for 328315 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:34:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0148 was active for 306833 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:44:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0147 was active for 321256 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:50:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0150 was active for 311330 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:51:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0149 was active for 302408 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 14:56:35 org.jivesoftware.util.log.util.CommonsLogFactory - #0151 was active for 305359 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:06:35 org.jivesoftware.util.log.util.CommonsLogFactory - #0152 was active for 325150 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:09:25 org.jivesoftware.util.log.util.CommonsLogFactory - #0146 was active for 321896 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:15:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0156 was active for 307592 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0154 was active for 305248 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0141 was active for 322855 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0153 was active for 322853 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0155 was active for 322885 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0157 was active for 322853 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0158 was active for 322829 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0159 was active for 322836 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0160 was active for 322845 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0161 was active for 322854 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0162 was active for 322887 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:16:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0163 was active for 322894 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:22:25 org.jivesoftware.util.log.util.CommonsLogFactory - #0167 was active for 303442 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:24:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0166 was active for 321175 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:27:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0168 was active for 317127 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:29:26 org.jivesoftware.util.log.util.CommonsLogFactory - #0169 was active for 317625 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:38:06 org.jivesoftware.util.log.util.CommonsLogFactory - #0171 was active for 328084 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:39:46 org.jivesoftware.util.log.util.CommonsLogFactory - #0165 was active for 317492 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:43:06 org.jivesoftware.util.log.util.CommonsLogFactory - #0172 was active for 312538 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:50:56 org.jivesoftware.util.log.util.CommonsLogFactory - #0173 was active for 318683 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:52:46 org.jivesoftware.util.log.util.CommonsLogFactory - #0175 was active for 333786 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:56:26 org.jivesoftware.util.log.util.CommonsLogFactory - #0164 was active for 317637 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 15:58:16 org.jivesoftware.util.log.util.CommonsLogFactory - #0174 was active for 337365 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:02:06 org.jivesoftware.util.log.util.CommonsLogFactory - #0170 was active for 300382 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:07:06 org.jivesoftware.util.log.util.CommonsLogFactory - #0176 was active for 329064 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:09:16 org.jivesoftware.util.log.util.CommonsLogFactory - #0177 was active for 310645 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:14:06 org.jivesoftware.util.log.util.CommonsLogFactory - #0178 was active for 318327 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:17:46 org.jivesoftware.util.log.util.CommonsLogFactory - #0182 was active for 334897 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:21:06 org.jivesoftware.util.log.util.CommonsLogFactory - #0179 was active for 329616 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:32:26 org.jivesoftware.util.log.util.CommonsLogFactory - #0184 was active for 307808 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:36:56 org.jivesoftware.util.log.util.CommonsLogFactory - #0183 was active for 304840 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 16:40:56 org.jivesoftware.util.log.util.CommonsLogFactory - #0185 was active for 315591 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:19:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0186 was active for 332110 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:19:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0187 was active for 314718 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:19:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0188 was active for 312929 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:26:27 org.jivesoftware.util.log.util.CommonsLogFactory - #0189 was active for 324188 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:28:16 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x0000002C: nio socket, server, /192.168.0.4:16382 => 0.0.0.0/0.0.0.0:5222)
+org.apache.mina.core.write.WriteToClosedSessionException
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.clearWriteRequestQueue(AbstractPollingIoProcessor.java:638)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.removeNow(AbstractPollingIoProcessor.java:590)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.removeSessions(AbstractPollingIoProcessor.java:560)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$800(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1132)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2016.07.07 17:33:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0180 was active for 321035 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0181 was active for 326657 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0190 was active for 321053 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0191 was active for 321060 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0192 was active for 321066 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:57 org.jivesoftware.util.log.util.CommonsLogFactory - #0193 was active for 321069 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:58 org.jivesoftware.util.log.util.CommonsLogFactory - #0194 was active for 321106 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:58 org.jivesoftware.util.log.util.CommonsLogFactory - #0195 was active for 321301 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:58 org.jivesoftware.util.log.util.CommonsLogFactory - #0196 was active for 321324 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:58 org.jivesoftware.util.log.util.CommonsLogFactory - #0197 was active for 321343 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:33:58 org.jivesoftware.util.log.util.CommonsLogFactory - #0198 was active for 321368 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:35:58 org.jivesoftware.util.log.util.CommonsLogFactory - #0199 was active for 317177 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:39:38 org.jivesoftware.util.log.util.CommonsLogFactory - #0202 was active for 308858 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:41:38 org.jivesoftware.util.log.util.CommonsLogFactory - #0201 was active for 327560 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:45:28 org.jivesoftware.util.log.util.CommonsLogFactory - #0203 was active for 301867 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:47:48 org.jivesoftware.util.log.util.CommonsLogFactory - #0200 was active for 325680 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:51:18 org.jivesoftware.util.log.util.CommonsLogFactory - #0204 was active for 334765 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-4', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:56:38 org.jivesoftware.util.log.util.CommonsLogFactory - #0205 was active for 304493 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:56:38 org.jivesoftware.util.log.util.CommonsLogFactory - #0209 was active for 314554 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:57:08 org.jivesoftware.util.log.util.CommonsLogFactory - #0206 was active for 326971 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 17:58:59 org.jivesoftware.util.log.util.CommonsLogFactory - #0208 was active for 316744 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 18:01:09 org.jivesoftware.util.log.util.CommonsLogFactory - #0207 was active for 322864 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 18:13:29 org.jivesoftware.util.log.util.CommonsLogFactory - #0212 was active for 324071 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 18:13:59 org.jivesoftware.util.log.util.CommonsLogFactory - #0214 was active for 319930 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 18:20:39 org.jivesoftware.util.log.util.CommonsLogFactory - #0213 was active for 321037 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.07 18:24:19 org.jivesoftware.util.log.util.CommonsLogFactory - #0211 was active for 323542 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.08 00:00:40 org.eclipse.jetty.util.thread.QueuedThreadPool - 
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:714)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.startThreads(QueuedThreadPool.java:447)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.access$200(QueuedThreadPool.java:47)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:598)
+	at java.lang.Thread.run(Thread.java:745)
+2016.07.09 13:24:37 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.07.09 13:24:38 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.07.11 13:24:41 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.07.11 13:24:42 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.07.13 13:24:44 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.07.13 13:24:45 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.07.25 12:26:27 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.07.25 12:38:51 org.jivesoftware.util.log.util.CommonsLogFactory - #0005 was active for 308900 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 12:39:21 org.jivesoftware.util.log.util.CommonsLogFactory - #0002 was active for 323646 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 12:39:21 org.jivesoftware.util.log.util.CommonsLogFactory - #0001 was active for 321928 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 13:22:31 org.jivesoftware.util.log.util.CommonsLogFactory - #0007 was active for 314134 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 13:22:31 org.jivesoftware.util.log.util.CommonsLogFactory - #0008 was active for 303095 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 14:12:08 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000004: nio socket, server, /192.168.0.4:3468 => /192.168.0.201:5222)
+javax.net.ssl.SSLHandshakeException: SSL handshake failed.
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:487)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:410)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:710)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Unrecognized SSL message, plaintext connection?
+	at sun.security.ssl.EngineInputRecord.bytesInCompletePacket(EngineInputRecord.java:171)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:851)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:764)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:728)
+	at org.apache.mina.filter.ssl.SslHandler.unwrapHandshake(SslHandler.java:666)
+	at org.apache.mina.filter.ssl.SslHandler.handshake(SslHandler.java:552)
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:351)
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:468)
+	... 15 more
+2016.07.25 14:15:26 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000006: nio socket, server, /192.168.0.4:4114 => /192.168.0.201:5222)
+javax.net.ssl.SSLHandshakeException: SSL handshake failed.
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:487)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:410)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:710)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Unrecognized SSL message, plaintext connection?
+	at sun.security.ssl.EngineInputRecord.bytesInCompletePacket(EngineInputRecord.java:171)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:851)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:764)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:728)
+	at org.apache.mina.filter.ssl.SslHandler.unwrapHandshake(SslHandler.java:666)
+	at org.apache.mina.filter.ssl.SslHandler.handshake(SslHandler.java:552)
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:351)
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:468)
+	... 15 more
+2016.07.25 14:16:54 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000007: nio socket, server, /192.168.0.4:4626 => /192.168.0.201:5222)
+javax.net.ssl.SSLHandshakeException: SSL handshake failed.
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:487)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:410)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:710)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Unrecognized SSL message, plaintext connection?
+	at sun.security.ssl.EngineInputRecord.bytesInCompletePacket(EngineInputRecord.java:171)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:851)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:764)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:728)
+	at org.apache.mina.filter.ssl.SslHandler.unwrapHandshake(SslHandler.java:666)
+	at org.apache.mina.filter.ssl.SslHandler.handshake(SslHandler.java:552)
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:351)
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:468)
+	... 15 more
+2016.07.25 14:17:11 org.jivesoftware.util.log.util.CommonsLogFactory - #0003 was active for 308071 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 14:21:32 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000009: nio socket, server, /192.168.0.4:5066 => /192.168.0.201:5222)
+javax.net.ssl.SSLHandshakeException: SSL handshake failed.
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:487)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:410)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:710)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Unrecognized SSL message, plaintext connection?
+	at sun.security.ssl.EngineInputRecord.bytesInCompletePacket(EngineInputRecord.java:171)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:851)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:764)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:728)
+	at org.apache.mina.filter.ssl.SslHandler.unwrapHandshake(SslHandler.java:666)
+	at org.apache.mina.filter.ssl.SslHandler.handshake(SslHandler.java:552)
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:351)
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:468)
+	... 15 more
+2016.07.25 14:22:41 org.jivesoftware.util.log.util.CommonsLogFactory - #0010 was active for 316464 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 14:24:54 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x0000000A: nio socket, server, /192.168.0.4:5195 => 0.0.0.0/0.0.0.0:5222)
+java.io.IOException: 连接被对端重置
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:384)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:273)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:44)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:690)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2016.07.25 14:27:01 org.jivesoftware.util.log.util.CommonsLogFactory - #0009 was active for 309788 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 14:27:19 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x0000000B: nio socket, server, /192.168.0.4:6041 => /192.168.0.201:5222)
+javax.net.ssl.SSLHandshakeException: SSL handshake failed.
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:487)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:410)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:710)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Unrecognized SSL message, plaintext connection?
+	at sun.security.ssl.EngineInputRecord.bytesInCompletePacket(EngineInputRecord.java:171)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:851)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:764)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:728)
+	at org.apache.mina.filter.ssl.SslHandler.unwrapHandshake(SslHandler.java:666)
+	at org.apache.mina.filter.ssl.SslHandler.handshake(SslHandler.java:552)
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:351)
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:468)
+	... 15 more
+2016.07.25 14:40:21 org.jivesoftware.util.log.util.CommonsLogFactory - #0006 was active for 304671 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.07.25 14:50:34 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x0000000D: nio socket, server, /192.168.0.4:9195 => /192.168.0.201:5222)
+javax.net.ssl.SSLHandshakeException: SSL handshake failed.
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:487)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:410)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:710)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Unrecognized SSL message, plaintext connection?
+	at sun.security.ssl.EngineInputRecord.bytesInCompletePacket(EngineInputRecord.java:171)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:851)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:764)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:728)
+	at org.apache.mina.filter.ssl.SslHandler.unwrapHandshake(SslHandler.java:666)
+	at org.apache.mina.filter.ssl.SslHandler.handshake(SslHandler.java:552)
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:351)
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:468)
+	... 15 more
+2016.07.25 14:52:05 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x0000000E: nio socket, server, /192.168.0.4:9902 => /192.168.0.201:5222)
+javax.net.ssl.SSLHandshakeException: SSL handshake failed.
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:487)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:410)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:710)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Unrecognized SSL message, plaintext connection?
+	at sun.security.ssl.EngineInputRecord.bytesInCompletePacket(EngineInputRecord.java:171)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:851)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:764)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:728)
+	at org.apache.mina.filter.ssl.SslHandler.unwrapHandshake(SslHandler.java:666)
+	at org.apache.mina.filter.ssl.SslHandler.handshake(SslHandler.java:552)
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:351)
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:468)
+	... 15 more
+2016.09.20 15:53:00 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.20 15:53:02 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.09.20 15:53:03 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.09.20 15:54:58 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000006: nio socket, server, /192.168.0.4:34700 => /192.168.0.201:5222)
+org.apache.mina.filter.codec.ProtocolDecoderException: Stopped parsing never ending stanza (Hexdump: (redacted hex dump of never ending stanza))
+	at org.jivesoftware.openfire.nio.XMLLightweightParser.read(XMLLightweightParser.java:195)
+	at org.jivesoftware.openfire.nio.XMPPDecoder.doDecode(XMPPDecoder.java:41)
+	at org.apache.mina.filter.codec.CumulativeProtocolDecoder.decode(CumulativeProtocolDecoder.java:176)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:232)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterEvent.fire(IoFilterEvent.java:74)
+	at org.apache.mina.core.session.IoEvent.run(IoEvent.java:63)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTask(OrderedThreadPoolExecutor.java:769)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTasks(OrderedThreadPoolExecutor.java:761)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.run(OrderedThreadPoolExecutor.java:703)
+	at java.lang.Thread.run(Thread.java:745)
+2016.09.20 15:56:22 org.jivesoftware.util.log.util.CommonsLogFactory - Shutdown waited for 0 milliseconds for all the connections to become inactive but the active count is still 3. Shutting down anyway.
+2016.09.21 12:59:50 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:07:30 org.jivesoftware.openfire.nio.OfflinePacketDeliverer - 无法路由数据包
+
+<iq type="result" id="owqP3-18" from="192.168.0.201" to="qianpf@192.168.0.201/Smack">
+  <activity xmlns="com.msn.activity" type="askRecommendation"/>
+</iq>
+2016.09.21 13:07:48 org.jivesoftware.util.log.util.CommonsLogFactory - Shutdown waited for 0 milliseconds for all the connections to become inactive but the active count is still 18. Shutting down anyway.
+2016.09.21 13:08:00 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:10:15 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000003: nio socket, server, /192.168.0.4:51770 => /192.168.0.201:5222)
+org.apache.mina.filter.codec.ProtocolDecoderException: Stopped parsing never ending stanza (Hexdump: (redacted hex dump of never ending stanza))
+	at org.jivesoftware.openfire.nio.XMLLightweightParser.read(XMLLightweightParser.java:195)
+	at org.jivesoftware.openfire.nio.XMPPDecoder.doDecode(XMPPDecoder.java:41)
+	at org.apache.mina.filter.codec.CumulativeProtocolDecoder.decode(CumulativeProtocolDecoder.java:176)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:232)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterEvent.fire(IoFilterEvent.java:74)
+	at org.apache.mina.core.session.IoEvent.run(IoEvent.java:63)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTask(OrderedThreadPoolExecutor.java:769)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTasks(OrderedThreadPoolExecutor.java:761)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.run(OrderedThreadPoolExecutor.java:703)
+	at java.lang.Thread.run(Thread.java:745)
+2016.09.21 13:11:04 org.jivesoftware.util.log.util.CommonsLogFactory - Shutdown waited for 0 milliseconds for all the connections to become inactive but the active count is still 2. Shutting down anyway.
+2016.09.21 13:11:12 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:46:35 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:48:11 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:48:48 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:50:16 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:50:57 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:54:08 org.jivesoftware.admin.LoginLimitManager - Failed admin console login attempt by admin from 127.0.0.1
+2016.09.21 13:54:08 org.jivesoftware.util.LocaleUtils - Missing resource for key: login.failed.unauthorized in locale zh_CN
+2016.09.21 13:54:11 org.jivesoftware.admin.LoginLimitManager - Failed admin console login attempt by admin from 127.0.0.1
+2016.09.21 13:54:11 org.jivesoftware.util.LocaleUtils - Missing resource for key: login.failed.unauthorized in locale zh_CN
+2016.09.21 13:54:14 org.jivesoftware.admin.LoginLimitManager - Failed admin console login attempt by admin from 127.0.0.1
+2016.09.21 13:54:14 org.jivesoftware.util.LocaleUtils - Missing resource for key: login.failed.unauthorized in locale zh_CN
+2016.09.21 13:54:20 index.jsp - Failed to fetch RSS feed: javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: root certificate not trusted of [vanity2.jiveon.com]
+2016.09.21 13:54:41 index.jsp - Failed to fetch RSS feed: javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: root certificate not trusted of [vanity2.jiveon.com]
+2016.09.21 13:54:51 index.jsp - Failed to fetch RSS feed: javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: root certificate not trusted of [vanity2.jiveon.com]
+2016.09.21 13:56:19 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 13:56:20 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:56:20 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 13:57:59 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 13:58:00 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:58:00 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 13:58:22 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 13:58:24 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 13:58:24 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 14:09:40 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@13f6184 socket: Socket[addr=/192.168.1.233,port=11335,localport=5269] session: null
+2016.09.21 14:09:40 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1c70af4 socket: Socket[addr=/192.168.1.233,port=11336,localport=5269] session: null
+2016.09.21 14:09:40 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:09:41 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@2afef5 socket: Socket[addr=/192.168.1.233,port=11337,localport=5269] session: null
+2016.09.21 14:09:41 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:09:41 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@62ea12 socket: Socket[addr=/192.168.1.233,port=11338,localport=5269] session: null
+2016.09.21 14:16:08 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@154e4d9 socket: Socket[addr=/192.168.1.233,port=11385,localport=5269] session: null
+2016.09.21 14:16:08 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@166c7f1 socket: Socket[addr=/192.168.1.233,port=11386,localport=5269] session: null
+2016.09.21 14:16:08 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:16:10 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1a5d4d socket: Socket[addr=/192.168.1.233,port=11387,localport=5269] session: null
+2016.09.21 14:16:10 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@12d7424 socket: Socket[addr=/192.168.1.233,port=11388,localport=5269] session: null
+2016.09.21 14:16:10 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:19:47 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1d6e391 socket: Socket[addr=/192.168.1.233,port=11408,localport=5269] session: null
+2016.09.21 14:19:47 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:19:47 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@cabd28 socket: Socket[addr=/192.168.1.233,port=11409,localport=5269] session: null
+2016.09.21 14:19:48 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@7a28d8 socket: Socket[addr=/192.168.1.233,port=11411,localport=5269] session: null
+2016.09.21 14:19:48 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@f7157f socket: Socket[addr=/192.168.1.233,port=11412,localport=5269] session: null
+2016.09.21 14:19:48 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:25:35 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1b50b9f socket: Socket[addr=/192.168.1.233,port=11577,localport=5269] session: null
+2016.09.21 14:25:35 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@7ba9ab socket: Socket[addr=/192.168.1.233,port=11578,localport=5269] session: null
+2016.09.21 14:25:35 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:25:36 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1c8e910 socket: Socket[addr=/192.168.1.233,port=11580,localport=5269] session: null
+2016.09.21 14:25:36 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:25:36 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@250f7f socket: Socket[addr=/192.168.1.233,port=11581,localport=5269] session: null
+2016.09.21 14:26:12 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000006: nio socket, server, /192.168.1.232:48464 => /192.168.1.233:5222)
+org.apache.mina.filter.codec.ProtocolDecoderException: Stopped parsing never ending stanza (Hexdump: (redacted hex dump of never ending stanza))
+	at org.jivesoftware.openfire.nio.XMLLightweightParser.read(XMLLightweightParser.java:195)
+	at org.jivesoftware.openfire.nio.XMPPDecoder.doDecode(XMPPDecoder.java:41)
+	at org.apache.mina.filter.codec.CumulativeProtocolDecoder.decode(CumulativeProtocolDecoder.java:176)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:232)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterEvent.fire(IoFilterEvent.java:74)
+	at org.apache.mina.core.session.IoEvent.run(IoEvent.java:63)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTask(OrderedThreadPoolExecutor.java:769)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTasks(OrderedThreadPoolExecutor.java:761)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.run(OrderedThreadPoolExecutor.java:703)
+	at java.lang.Thread.run(Unknown Source)
+2016.09.21 14:27:21 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@11f3e92 socket: Socket[addr=/192.168.1.233,port=11635,localport=5269] session: null
+2016.09.21 14:27:21 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:27:21 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@6ebd05 socket: Socket[addr=/192.168.1.233,port=11636,localport=5269] session: null
+2016.09.21 14:27:22 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1dd1f32 socket: Socket[addr=/192.168.1.233,port=11638,localport=5269] session: null
+2016.09.21 14:27:22 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@46ad0 socket: Socket[addr=/192.168.1.233,port=11639,localport=5269] session: null
+2016.09.21 14:27:22 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:28:03 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@83b426 socket: Socket[addr=/192.168.1.233,port=11647,localport=5269] session: null
+2016.09.21 14:28:03 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@15284b9 socket: Socket[addr=/192.168.1.233,port=11648,localport=5269] session: null
+2016.09.21 14:28:03 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:28:04 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@153fc84 socket: Socket[addr=/192.168.1.233,port=11649,localport=5269] session: null
+2016.09.21 14:28:04 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1e57784 socket: Socket[addr=/192.168.1.233,port=11650,localport=5269] session: null
+2016.09.21 14:28:04 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:28:36 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@179d920 socket: Socket[addr=/192.168.1.233,port=11657,localport=5269] session: null
+2016.09.21 14:28:36 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@10a3a04 socket: Socket[addr=/192.168.1.233,port=11658,localport=5269] session: null
+2016.09.21 14:28:36 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:28:38 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@3563fe socket: Socket[addr=/192.168.1.233,port=11659,localport=5269] session: null
+2016.09.21 14:28:38 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 14:28:38 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@2fc423 socket: Socket[addr=/192.168.1.233,port=11660,localport=5269] session: null
+2016.09.21 14:29:03 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000009: nio socket, server, /192.168.1.232:34348 => /192.168.1.233:5222)
+org.apache.mina.filter.codec.ProtocolDecoderException: Stopped parsing never ending stanza (Hexdump: (redacted hex dump of never ending stanza))
+	at org.jivesoftware.openfire.nio.XMLLightweightParser.read(XMLLightweightParser.java:195)
+	at org.jivesoftware.openfire.nio.XMPPDecoder.doDecode(XMPPDecoder.java:41)
+	at org.apache.mina.filter.codec.CumulativeProtocolDecoder.decode(CumulativeProtocolDecoder.java:176)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:232)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterEvent.fire(IoFilterEvent.java:74)
+	at org.apache.mina.core.session.IoEvent.run(IoEvent.java:63)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTask(OrderedThreadPoolExecutor.java:769)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTasks(OrderedThreadPoolExecutor.java:761)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.run(OrderedThreadPoolExecutor.java:703)
+	at java.lang.Thread.run(Unknown Source)
+2016.09.21 15:26:02 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 15:26:05 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 15:26:05 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 15:26:23 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@15fe302 socket: Socket[addr=/192.168.1.233,port=12919,localport=5269] session: null
+2016.09.21 15:26:23 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 15:26:23 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1a78872 socket: Socket[addr=/192.168.1.233,port=12920,localport=5269] session: null
+2016.09.21 15:26:24 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@22ba47 socket: Socket[addr=/192.168.1.233,port=12921,localport=5269] session: null
+2016.09.21 15:26:24 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 15:26:24 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@72d641 socket: Socket[addr=/192.168.1.233,port=12922,localport=5269] session: null
+2016.09.21 15:26:30 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.21 15:26:30 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.21 15:27:11 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@15f9f39 socket: Socket[addr=/192.168.1.233,port=12934,localport=5269] session: null
+2016.09.21 15:27:11 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@176fbda socket: Socket[addr=/192.168.1.233,port=12935,localport=5269] session: null
+2016.09.21 15:27:11 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 15:27:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.21 15:27:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.21 15:43:28 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 15:43:30 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 15:43:30 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 15:43:51 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@242864 socket: Socket[addr=/192.168.1.233,port=13382,localport=5269] session: null
+2016.09.21 15:43:51 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@dc4314 socket: Socket[addr=/192.168.1.233,port=13383,localport=5269] session: null
+2016.09.21 15:43:51 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 15:43:52 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@9aaabc socket: Socket[addr=/192.168.1.233,port=13384,localport=5269] session: null
+2016.09.21 15:43:52 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 15:43:52 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@f79815 socket: Socket[addr=/192.168.1.233,port=13385,localport=5269] session: null
+2016.09.21 15:44:16 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@5a36c socket: Socket[addr=/192.168.1.233,port=13394,localport=5269] session: null
+2016.09.21 15:44:16 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1f390f5 socket: Socket[addr=/192.168.1.233,port=13395,localport=5269] session: null
+2016.09.21 15:44:16 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 19:14:19 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 19:14:25 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 19:14:25 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 19:15:00 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 19:15:02 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 19:15:02 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 20:09:57 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@867191 socket: Socket[addr=/192.168.1.233,port=2345,localport=5269] session: null
+2016.09.21 20:09:57 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@7e1ae1 socket: Socket[addr=/192.168.1.233,port=2346,localport=5269] session: null
+2016.09.21 20:09:57 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:09:58 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@6d6f4d socket: Socket[addr=/192.168.1.233,port=2347,localport=5269] session: null
+2016.09.21 20:09:58 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:09:58 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@2ad51a socket: Socket[addr=/192.168.1.233,port=2348,localport=5269] session: null
+2016.09.21 20:10:45 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@d36f25 socket: Socket[addr=/192.168.1.233,port=2354,localport=5269] session: null
+2016.09.21 20:10:45 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@12eff50 socket: Socket[addr=/192.168.1.233,port=2355,localport=5269] session: null
+2016.09.21 20:10:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:12:18 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@bcf966 socket: Socket[addr=/192.168.1.233,port=2374,localport=5269] session: null
+2016.09.21 20:12:18 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@cfc591 socket: Socket[addr=/192.168.1.233,port=2375,localport=5269] session: null
+2016.09.21 20:12:18 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:12:19 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@82740f socket: Socket[addr=/192.168.1.233,port=2377,localport=5269] session: null
+2016.09.21 20:12:19 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1dc17f8 socket: Socket[addr=/192.168.1.233,port=2378,localport=5269] session: null
+2016.09.21 20:12:19 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:12:28 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1ae8bdf socket: Socket[addr=/192.168.1.233,port=2381,localport=5269] session: null
+2016.09.21 20:12:28 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@d180ed socket: Socket[addr=/192.168.1.233,port=2382,localport=5269] session: null
+2016.09.21 20:12:28 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:12:29 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@ee5cbe socket: Socket[addr=/192.168.1.233,port=2383,localport=5269] session: null
+2016.09.21 20:12:29 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@fe97e2 socket: Socket[addr=/192.168.1.233,port=2384,localport=5269] session: null
+2016.09.21 20:12:29 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:12:56 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@186ce7e socket: Socket[addr=/192.168.1.233,port=2388,localport=5269] session: null
+2016.09.21 20:12:56 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@7fd821 socket: Socket[addr=/192.168.1.233,port=2389,localport=5269] session: null
+2016.09.21 20:12:56 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:13:04 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1247cce socket: Socket[addr=/192.168.1.233,port=2392,localport=5269] session: null
+2016.09.21 20:13:04 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:13:04 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1c4fa5e socket: Socket[addr=/192.168.1.233,port=2393,localport=5269] session: null
+2016.09.21 20:13:05 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@90b8a socket: Socket[addr=/192.168.1.233,port=2394,localport=5269] session: null
+2016.09.21 20:13:05 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@10a5f8c socket: Socket[addr=/192.168.1.233,port=2395,localport=5269] session: null
+2016.09.21 20:13:05 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:13:35 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1a45ac7 socket: Socket[addr=/192.168.1.233,port=2400,localport=5269] session: null
+2016.09.21 20:13:35 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@13709aa socket: Socket[addr=/192.168.1.233,port=2401,localport=5269] session: null
+2016.09.21 20:13:35 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:14:02 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@123c2fb socket: Socket[addr=/192.168.1.233,port=2405,localport=5269] session: null
+2016.09.21 20:14:02 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@4ef99c socket: Socket[addr=/192.168.1.233,port=2406,localport=5269] session: null
+2016.09.21 20:14:02 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:14:27 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1d3fd85 socket: Socket[addr=/192.168.1.233,port=2411,localport=5269] session: null
+2016.09.21 20:14:27 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 192.168.1.233. Connection: org.jivesoftware.openfire.net.SocketConnection@1fcec08 socket: Socket[addr=/192.168.1.233,port=2412,localport=5269] session: null
+2016.09.21 20:14:27 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.1.233 for openfire
+2016.09.21 20:19:21 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000003: nio socket, server, /192.168.1.232:59628 => 0.0.0.0/0.0.0.0:5222)
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:273)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:44)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:690)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016.09.21 21:27:55 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.21 21:27:57 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.21 21:27:57 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.22 10:25:46 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.22 10:25:49 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.22 10:25:49 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.22 10:26:15 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: Using RSA certificates but they are not valid for the hosted domain
+2016.09.22 10:26:17 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.09.22 10:26:17 org.jivesoftware.openfire.http.HttpBindManager - HTTP binding: Using RSA certificates but they are not valid for the hosted domain
+2016.09.22 10:31:13 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 10:31:13 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 10:31:41 org.jivesoftware.util.log.util.CommonsLogFactory - #0003 was active for 302275 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:31:41 org.jivesoftware.util.log.util.CommonsLogFactory - #0005 was active for 318126 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:33:11 org.jivesoftware.util.log.util.CommonsLogFactory - #0004 was active for 312280 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:33:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0001 was active for 309138 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:34:24 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 10:34:24 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 10:36:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0002 was active for 318731 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:36:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0006 was active for 301891 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:37:19 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 10:37:19 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 10:37:40 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 10:37:40 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 10:38:33 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 10:38:33 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 10:39:10 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 10:39:10 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 10:39:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0008 was active for 307896 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:39:58 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 10:39:58 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 10:42:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0010 was active for 304916 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:42:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0011 was active for 321953 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:43:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0007 was active for 328985 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:44:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0009 was active for 322548 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:44:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0013 was active for 303695 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:45:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0012 was active for 309028 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:45:36 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: qianpf(DNS lookup: qianpf:5269): java.net.UnknownHostException: qianpf
+2016.09.22 10:45:36 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to qianpf for openfire
+2016.09.22 10:46:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0014 was active for 311014 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:46:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0015 was active for 322852 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:46:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0016 was active for 320638 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:46:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0017 was active for 301347 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:47:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0018 was active for 328597 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:47:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0019 was active for 316872 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:47:17 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: duhao(DNS lookup: duhao:5269): java.net.UnknownHostException: duhao
+2016.09.22 10:47:17 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to duhao for openfire
+2016.09.22 10:47:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0020 was active for 324837 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:47:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0021 was active for 323982 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:47:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0022 was active for 322749 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:47:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0023 was active for 321673 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:47:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0024 was active for 318528 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:47:42 org.jivesoftware.util.log.util.CommonsLogFactory - #0025 was active for 309374 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:48:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0026 was active for 309368 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:49:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0027 was active for 317322 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:49:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0028 was active for 316145 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:49:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0029 was active for 314888 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 10:49:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0030 was active for 313984 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:01:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0032 was active for 318392 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:03:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0035 was active for 327080 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:17:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0033 was active for 301203 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:18:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0034 was active for 316529 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:18:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0036 was active for 304670 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:30:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0037 was active for 323259 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:33:12 org.jivesoftware.util.log.util.CommonsLogFactory - #0040 was active for 302581 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:37:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0041 was active for 300455 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:38:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0031 was active for 324358 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:38:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0038 was active for 300882 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:38:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0039 was active for 329016 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 11:39:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0042 was active for 312377 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:25:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0043 was active for 300465 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:25:44 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000020: nio socket, server, /192.168.1.55:45931 => /192.168.1.233:5222)
+javax.net.ssl.SSLException: Unsupported record version Unknown-97.117
+	at sun.security.ssl.InputRecord.checkRecordVersion(Unknown Source)
+	at sun.security.ssl.EngineInputRecord.bytesInCompletePacket(Unknown Source)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(Unknown Source)
+	at sun.security.ssl.SSLEngineImpl.unwrap(Unknown Source)
+	at javax.net.ssl.SSLEngine.unwrap(Unknown Source)
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:728)
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:360)
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:468)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:765)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:109)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:417)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:410)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:710)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016.09.22 12:25:44 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000020: nio socket, server, /192.168.1.55:45931 => 0.0.0.0/0.0.0.0:5222)
+javax.net.ssl.SSLException: SSLEngine error during encrypt: CLOSED src: java.nio.HeapByteBuffer[pos=0 lim=145 cap=256]outNetBuffer: HeapBuffer[pos=31 lim=16921 cap=16921: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00...]
+	at org.apache.mina.filter.ssl.SslHandler.encrypt(SslHandler.java:443)
+	at org.apache.mina.filter.ssl.SslFilter.filterWrite(SslFilter.java:594)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callPreviousFilterWrite(DefaultIoFilterChain.java:482)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1400(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.filterWrite(DefaultIoFilterChain.java:775)
+	at org.apache.mina.filter.executor.ExecutorFilter.filterWrite(ExecutorFilter.java:614)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callPreviousFilterWrite(DefaultIoFilterChain.java:482)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1400(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.filterWrite(DefaultIoFilterChain.java:775)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.filterWrite(ProtocolCodecFilter.java:289)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callPreviousFilterWrite(DefaultIoFilterChain.java:482)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1400(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.filterWrite(DefaultIoFilterChain.java:775)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.filterWrite(IoFilterAdapter.java:123)
+	at org.jivesoftware.openfire.net.StalledSessionsFilter.filterWrite(StalledSessionsFilter.java:65)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callPreviousFilterWrite(DefaultIoFilterChain.java:482)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1400(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.filterWrite(DefaultIoFilterChain.java:775)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$TailFilter.filterWrite(DefaultIoFilterChain.java:705)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callPreviousFilterWrite(DefaultIoFilterChain.java:482)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireFilterWrite(DefaultIoFilterChain.java:475)
+	at org.apache.mina.core.session.AbstractIoSession.write(AbstractIoSession.java:494)
+	at org.apache.mina.core.session.AbstractIoSession.write(AbstractIoSession.java:439)
+	at org.jivesoftware.openfire.nio.NIOConnection.deliverRawText(NIOConnection.java:383)
+	at org.jivesoftware.openfire.nio.ConnectionHandler.exceptionCaught(ConnectionHandler.java:154)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$TailFilter.exceptionCaught(DefaultIoFilterChain.java:672)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextExceptionCaught(DefaultIoFilterChain.java:461)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1100(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.exceptionCaught(DefaultIoFilterChain.java:760)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:102)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextExceptionCaught(DefaultIoFilterChain.java:461)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1100(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.exceptionCaught(DefaultIoFilterChain.java:760)
+	at org.apache.mina.core.filterchain.IoFilterAdapter.exceptionCaught(IoFilterAdapter.java:102)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextExceptionCaught(DefaultIoFilterChain.java:461)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1100(DefaultIoFilterChain.java:47)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.exceptionCaught(DefaultIoFilterChain.java:760)
+	at org.apache.mina.core.filterchain.IoFilterEvent.fire(IoFilterEvent.java:93)
+	at org.apache.mina.core.session.IoEvent.run(IoEvent.java:63)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTask(OrderedThreadPoolExecutor.java:769)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTasks(OrderedThreadPoolExecutor.java:761)
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.run(OrderedThreadPoolExecutor.java:703)
+	at java.lang.Thread.run(Unknown Source)
+2016.09.22 12:26:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0046 was active for 302855 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:26:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0044 was active for 311073 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:29:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0045 was active for 318518 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:29:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0047 was active for 325565 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:29:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0048 was active for 321950 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:29:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0049 was active for 315779 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:29:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0050 was active for 301754 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:30:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0051 was active for 303624 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:31:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0052 was active for 302533 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:38:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0057 was active for 320065 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:39:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0056 was active for 315257 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:40:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0053 was active for 307567 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:42:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0054 was active for 304913 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:43:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0058 was active for 321003 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:44:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0055 was active for 307644 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:47:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0059 was active for 313963 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 12:49:43 org.jivesoftware.util.log.util.CommonsLogFactory - #0061 was active for 315928 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:11:13 org.jivesoftware.util.log.util.CommonsLogFactory - #0062 was active for 300340 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:12:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0065 was active for 326171 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:13:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0060 was active for 315872 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:20:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0067 was active for 317309 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:20:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0068 was active for 315294 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:27:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0066 was active for 319278 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:28:33 org.jivesoftware.openfire.nio.OfflinePacketDeliverer - 无法路由数据包
+
+<iq type="result" id="J3WGC-20" from="openfire" to="qianpf@openfire/Smack">
+  <activity xmlns="com.msn.activity" type="createActivity">
+    <result>1</result>
+    <activity_id>5</activity_id>
+  </activity>
+</iq>
+2016.09.22 13:28:34 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="J3WGC-21" from="openfire" to="qianpf@openfire/Smack"><activity xmlns="com.msn.activity" type="createActivity"><result>1</result><activity_id>6</activity_id></activity></iq>
+2016.09.22 13:28:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0069 was active for 303633 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:29:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0063 was active for 315457 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:29:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0064 was active for 317288 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:29:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0070 was active for 324575 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:29:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0071 was active for 313924 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:30:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0072 was active for 301851 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:30:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0073 was active for 312312 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:32:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0074 was active for 313292 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:32:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0075 was active for 307979 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:33:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0076 was active for 303194 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:34:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0077 was active for 325273 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:34:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0078 was active for 300377 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:35:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0079 was active for 325177 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:36:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0080 was active for 328862 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:36:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0081 was active for 319868 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:36:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0082 was active for 305957 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:36:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0083 was active for 300281 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:36:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0084 was active for 311368 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:37:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0085 was active for 309325 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:54:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0086 was active for 307367 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:54:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0090 was active for 326948 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:55:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0089 was active for 306648 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:55:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0087 was active for 304540 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:55:44 org.jivesoftware.util.log.util.CommonsLogFactory - #0088 was active for 301616 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:56:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0091 was active for 326651 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:56:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0092 was active for 322600 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 13:56:14 org.jivesoftware.util.log.util.CommonsLogFactory - #0093 was active for 317440 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 14:24:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 14:24:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 14:29:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0098 was active for 320493 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 14:31:24 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 14:31:24 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 14:34:50 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 14:34:50 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 14:35:44 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 14:35:44 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 14:36:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0099 was active for 311076 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 14:36:53 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Error trying to connect to remote server: 192.168.0.201(DNS lookup: 192.168.0.201:5269): java.net.ConnectException: Connection timed out: connect
+2016.09.22 14:36:53 org.jivesoftware.openfire.session.LocalOutgoingServerSession - Fail to connect to 192.168.0.201 for openfire
+2016.09.22 14:39:45 org.jivesoftware.util.log.util.CommonsLogFactory - #0096 was active for 301703 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 14:40:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0094 was active for 321564 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-1', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.09.22 14:40:15 org.jivesoftware.util.log.util.CommonsLogFactory - #0097 was active for 325493 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-2', but the last SQL it performed is unknown because the trace property is not enabled.

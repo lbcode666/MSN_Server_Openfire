@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Plugin configuration for the broadcast plugin.
+-->
+<plugin>
+    <class>com.msn.handleLabelPacket.HandleLabelPacketPlugin</class>
+    <name>HandleLabelPacket</name>
+    <description>兴趣标签插件</description>
+    <author>Wang Shanshan</author>
+    <version>1.0</version>
+    <date>7/24/2015</date>
+    <url>http://www.igniterealtime.org</url>
+    <minServerVersion>3.9.0</minServerVersion>
+</plugin>

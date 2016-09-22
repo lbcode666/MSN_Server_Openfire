@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.msn.hybrid.HybridPlugin</class>
+    <name>Hybrid</name>
+    <description>混合模式插件</description>
+    <author>ZhaoKai</author>
+    <version>1.0</version>
+    <date>3/12/2016</date>
+    <url>http://www.igniterealtime.org</url>
+    <minServerVersion>3.9.0</minServerVersion>
+</plugin>
